@@ -1,7 +1,6 @@
 package bar;
 
-public class Bar {
-    public static void bar(String s) {
-
-    }
+public interface Bar {
+    void hello();
+    void go();
 }
