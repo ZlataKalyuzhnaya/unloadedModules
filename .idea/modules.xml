@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bar/bar.iml" filepath="$PROJECT_DIR$/bar/bar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/foo/foo.iml" filepath="$PROJECT_DIR$/foo/foo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/platform.iml" filepath="$PROJECT_DIR$/platform/platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pluginA/pluginA.iml" filepath="$PROJECT_DIR$/pluginA/pluginA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pluginB/pluginB.iml" filepath="$PROJECT_DIR$/pluginB/pluginB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pluginC/pluginC.iml" filepath="$PROJECT_DIR$/pluginC/pluginC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pluginD/pluginD.iml" filepath="$PROJECT_DIR$/pluginD/pluginD.iml" />
       <module fileurl="file://$PROJECT_DIR$/unloadedModules.iml" filepath="$PROJECT_DIR$/unloadedModules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
     </modules>
   </component>
 </project>
